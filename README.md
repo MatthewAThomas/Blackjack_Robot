@@ -1,4 +1,4 @@
-# Automated-Blackjack
+# Automated-Blackjack Dealer
 Code for an Automated Blackjack Dealer - final project, Introduction to Robotics (EECS 106A):
 https://sites.google.com/view/fa23-eecs106a-team38/home
 
